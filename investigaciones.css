@@ -1,0 +1,23 @@
+.boxSmall{
+    display: flex;
+    flex-direction:column;
+    width: 30%;
+    align-items: center;
+}
+.boxBig{
+    display: flex;
+    flex-direction: row;
+}
+
+#img{
+    width: 35%;
+    margin: 40px;
+
+}
+.box{
+    display: flex;
+    flex-direction: row;
+}
+.boxI{
+    width: 50%;
+}
