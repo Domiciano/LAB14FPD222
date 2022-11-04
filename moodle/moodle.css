@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+#description{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+    gap: 10px;
+}
+
+#description p{
+    width: 500px;
+    text-align: justify;
+}
+
+
+#login{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    gap: 10px;
+}
+
+#login input{
+    height: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#login button{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+#backInput{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
