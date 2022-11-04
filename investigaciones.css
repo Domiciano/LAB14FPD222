@@ -3,10 +3,12 @@
     flex-direction:column;
     width: 30%;
     align-items: center;
+
 }
 .boxBig{
     display: flex;
     flex-direction: row;
+    margin: 20px;
 }
 
 #img{
@@ -17,7 +19,21 @@
 .box{
     display: flex;
     flex-direction: row;
+    margin: 20px;
 }
 .boxI{
     width: 50%;
+}
+#text{
+    margin: 20px;
+}
+#buttonRegresar{
+    margin: 20px;
+    background-color: rgb(48, 175, 160);
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+.num{
+    color:rgb(48, 175, 160);
 }
