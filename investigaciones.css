@@ -33,6 +33,10 @@
     border: none;
     padding: 10px;
     border-radius: 10px;
+    color: aliceblue;
+    align-items: center;
+    width: 8%;
+    margin-left: 550px;
 }
 .num{
     color:rgb(48, 175, 160);
